@@ -1,0 +1,56 @@
+body{
+	background:url(https://wallpaperplay.com/walls/full/e/7/e/78889.jpg);
+	font-size:20px;
+	font-family:unset;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: relative;
+}
+#main{
+	align-content: center;
+	margin:4% 20% 0 20%;
+}
+#survey-form{
+	background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwuv_aIWYmmvRQB1MKWUCXuna2zlvRVppuXXHP1piyBM5bLsWT&usqp=CAU);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: relative;
+	padding:4% 4% 4% 6%;
+	color:white;
+	
+}
+#name{
+    height:50px;
+    width:100%;
+    border-radius: 10px;
+}
+#email{
+	 height:50px;
+    width:100%;
+     border-radius: 10px;
+
+}
+#number{
+	height:50px;
+    width:100%;
+     border-radius: 10px;
+
+}
+#dropdown{
+	height:50px;
+    width:100%;
+     border-radius: 10px;
+
+}
+#textarea{
+	height:50px;
+    width:100%;
+     border-radius: 10px;
+
+}
+#submit{
+	background-color:gray;
+	height:50px;
+    width:100%;
+     border-radius: 10px;
+}
